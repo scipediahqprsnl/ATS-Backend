@@ -30,3 +30,9 @@ Dynamic resume ranking system that evaluates candidates against job descriptions
 - Domain filtering
 - Semantic similarity
 - Async ingestion
+
+## Entry Point
+Main execution file:  main.py
+
+To run:
+- python main.py
